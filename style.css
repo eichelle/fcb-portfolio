@@ -24,7 +24,7 @@ img {
 }
 
 #gallery{
-	height: 75vh;
+	height: 90vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -45,7 +45,7 @@ ul {
 	margin: 20px;
 	padding: 25px;
 	width: 75%;
-	height: 200px;
+	height: 250px;
 }
 
 html {
@@ -54,4 +54,13 @@ html {
 
 img{
 	border-radius: 50%;
+}
+footer {
+	text-align: center;
+	margin-top: 30px;
+	background-color: rgba(66,184,168,0.33);
+	padding: 10px;
+}
+footer p{
+	margin: 0;
 }
